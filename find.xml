@@ -14,8 +14,8 @@
     <mask>*.ats</mask>
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
-    <mask>*.js</mask>
     <mask>*.wxml</mask>
     <mask>*.js,*.wxml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
